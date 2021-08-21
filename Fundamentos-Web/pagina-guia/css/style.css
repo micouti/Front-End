@@ -18,6 +18,12 @@
   background: #fffbf7;
 }
 
+.menu {
+  display: flex;
+  justify-content: space-between;
+  width: 41%;
+}
+
 nav {
   display: flex;
   align-items: center;

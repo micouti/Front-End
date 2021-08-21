@@ -1,0 +1,43 @@
+
+.corbtt{
+    background-color:#F69B13;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    width: 33%;
+  }
+
+.espaçomenu {
+   
+}
+
+  .wh-90 {
+      width: 90;
+      border-radius: 50%;
+  }
+
+ .bg-black {
+    background-color: #000000;
+ }
+
+ .corTexto {
+     background: #F69B13;
+ }
+
+ a span{
+     color:#F69B13
+ }
+
+ nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    padding: 0 45px;
+  }
+
+.jumb {
+    color:#F69B13;
+}
